@@ -1,0 +1,5 @@
+ADD;iPhone 15;999.99
+ADD;HP Laptop;1200.00
+REMOVE;iPhone 15;999.99
+REMOVE;Does Not Exist;10.00
+ADD;Broken Item;-10
